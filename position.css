@@ -1,0 +1,39 @@
+
+.box-1{
+    
+    width: 200px;
+    height: 2000px;
+    background: #1eb;
+    padding: 0px;
+    position: static;
+    display: block;
+    
+}
+.op{
+   
+    padding: 20px;
+    position: static; 
+     background: #fff;
+    display: contents;
+}
+
+div{
+    display: block;
+    width: 120px;
+    height: 120px;
+    background: #f7b;
+    left: 20px;
+    padding: 0px;
+}
+.box-2{
+     padding: 0px;
+    position:static;
+    left:20px;
+    display: block;
+    width: 120px;
+    height: 120px;
+    
+    background: #ff7;
+   
+}
+
